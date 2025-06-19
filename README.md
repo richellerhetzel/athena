@@ -5,9 +5,9 @@ Monitore indicadores-chave da suas lojas e otimize a gestão de produtos e estoq
  O aplicativo está disponível para IOS e Android. Click nos links abaixo para baixar:
 
 Apple IOS: 
-https://apps.apple.com/br/app/athena/id1194665878
+[https://apps.apple.com/br/app/athena/id1194665878] (URL)
 
 Android:
-https://play.google.com/store/apps/details?id=br.com.varejopositivo.athena
+[https://play.google.com/store/apps/details?id=br.com.varejopositivo.athena] (URL)
 
    
